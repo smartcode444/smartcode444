@@ -2,12 +2,12 @@
 
 Hello, My name is Victor Steve, I am from the University of Ibadan taking Computer Science.
 
-I have a huge intrest in building software and tools that make make everyday life easier. I am currently learning Web programming and Networking. My knowledge of python programming and Networking has enabled to build tools like Youtube downloader, games and my current project: A tool for file transfer between PC's via Wifi-Hotspot.
+I have a huge interest in building software and tools that make make everyday life easier. I am currently learning Web programming and Networking. My knowledge of python programming and Networking has enabled to build tools like Youtube downloader, games and my current project: A tool for file transfer between PC's via Wifi-Hotspot.
 
 I love to join a community and comeptition that involve creating software that make life easier for the society
 
 # Skills: 
-Software Engineering | Python Programming | Low level Game development | Web Programming
+Software Engineering | Python Programming | Low level Game development | Web Programming | Pygame
 
 # Tools
 Vscode, Python, C++, Html, CSS, JavaScript, Git, Github, SQL
